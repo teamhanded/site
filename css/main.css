@@ -79,6 +79,7 @@ header {
 	margin: 0;
 	float: right;
 }
+
 .links li {
 	list-style: none;
 	display: inline-block;
@@ -133,7 +134,7 @@ h3 {
 	font-size: 35px;
 }
 
-.link-landing {
+.link-landing a{
 	color: #FAFAFA;
 }
 
