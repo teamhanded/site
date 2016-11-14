@@ -15,12 +15,12 @@
 }
 
 @font-face {
-	font-family: 'NeuHelvetia';
-	src: url('http://refracta.me/fonts/neuhelvetia.svg') format('svg');
+	font-family: 'Neue-Haas';
+	src: url('http://refracta.me/fonts/NeueHaasGrotDisp-75Bold.eot');
+	src: local('☺'), url('http://refracta.me/fonts/NeueHaasGrotDisp-75Bold.woff') format('woff'), url('http://refracta.me/fonts/NeueHaasGrotDisp-75Bold.ttf') format('truetype'), url('http://refracta.me/fonts/NeueHaasGrotDisp-75Bold.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
-
 body{
   background:#23CD9B url(http://refracta.me/images/background.svg) repeat center top;
   background-attachment: fixed;
@@ -107,7 +107,7 @@ header {
 }
 
 .header-text {
-	font-family: 'NeuHelvetia';
+	font-family: 'Neue-Haas';
 }
 
 #presentation {
