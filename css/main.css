@@ -113,6 +113,7 @@ header {
 	font-size: 150%;
 	letter-spacing: 10px;
 	color: #EFEFEF;
+	text-decoration: none;
 }
 
 #presentation {
@@ -153,12 +154,10 @@ h3 {
 .link-landing a{
 	color: #FAFAFA;
 	text-decoration: none;
-
 }
 
 .link-landing a:hover{
 	color: #23CD9B;
-	text-decoration: none;
 }
 
 .firm {
