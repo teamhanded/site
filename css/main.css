@@ -94,9 +94,11 @@ header {
 }
 .links a {
 	color: #fafafa;
+	text-decoration: none;
 }
 .links a:hover {
 	color: #eee;
+	text-decoration: none;
 }
 
 .categories {
@@ -150,10 +152,13 @@ h3 {
 
 .link-landing a{
 	color: #FAFAFA;
+	text-decoration: none;
+
 }
 
 .link-landing a:hover{
 	color: #23CD9B;
+	text-decoration: none;
 }
 
 .firm {
