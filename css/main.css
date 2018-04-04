@@ -1,28 +1,28 @@
 @font-face {
 	font-family: 'Grotesk';
-	src: url('http://refracta.me/fonts/HKGrotesk-Regular.woff');
-	src: local('☺'), url('http://refracta.me/fonts/HKGrotesk-Regular.woff') format('woff'), url('http://refracta.me/fonts/HKGrotesk-Regular.ttf') format('truetype'), url('http://refracta.me/fonts/HKGrotesk-Regular.svg') format('svg');
+	src: url('../fonts/HKGrotesk-Regular.woff');
+	src: local('☺'), url('../fonts/HKGrotesk-Regular.woff') format('woff'), url('../fonts/HKGrotesk-Regular.ttf') format('truetype'), url('../fonts/HKGrotesk-Regular.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Grotesk-Bold';
-	src: url('http://refracta.me/fonts/HKGrotesk-Bold.eot');
-	src: local('☺'), url('http://refracta.me/fonts/HKGrotesk-Bold.woff') format('woff'), url('http://refracta.me/fonts/HKGrotesk-Bold.ttf') format('truetype'), url('http://refracta.me/fonts/HKGrotesk-Bold.svg') format('svg');
+	src: url('../fonts/HKGrotesk-Bold.eot');
+	src: local('☺'), url('../fonts/HKGrotesk-Bold.woff') format('woff'), url('../fonts/HKGrotesk-Bold.ttf') format('truetype'), url('../fonts/HKGrotesk-Bold.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Neue-Haas';
-	src: url('http://refracta.me/fonts/NeueHaasGrotDisp-75Bold.eot');
-	src: local('☺'), url('http://refracta.me/fonts/NeueHaasGrotDisp-75Bold.woff') format('woff'), url('http://refracta.me/fonts/NeueHaasGrotDisp-75Bold.ttf') format('truetype'), url('http://refracta.me/fonts/NeueHaasGrotDisp-75Bold.svg') format('svg');
+	src: url('../fonts/NeueHaasGrotDisp-75Bold.eot');
+	src: local('☺'), url('../fonts/NeueHaasGrotDisp-75Bold.woff') format('woff'), url('../fonts/NeueHaasGrotDisp-75Bold.ttf') format('truetype'), url('../fonts/NeueHaasGrotDisp-75Bold.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 body{
-  background:#23CD9B url(http://refracta.me/images/background.svg) repeat center top;
+  background:#23CD9B url(../images/background.svg) repeat center top;
   background-attachment: fixed;
   color: #63B3D3;
   font-family: 'Grotesk';
